@@ -1,8 +1,6 @@
 //
 //  AppDelegate.swift
 //  todolist
-//
-//  Created by Shobha Kand on 6/12/16.
 //  Copyright © 2016 theswiftproject. All rights reserved.
 //
 
